@@ -1,0 +1,26 @@
+{
+  "name": "crm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poo17nam/CRM.git"
+  },
+  "author": "Poonam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poo17nam/CRM/issues"
+  },
+  "homepage": "https://github.com/poo17nam/CRM#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "install": "^0.10.2",
+    "mongoose": "^4.13.6",
+    "nodemon": "^1.13.3"
+  }
+}

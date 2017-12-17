@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# Exercise files
+Ex_Files_RESTful_APIs_NodeJS_Express/
+
