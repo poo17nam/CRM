@@ -38,9 +38,3 @@ $ node index.js
 The server is now running on localhost:3000 . Go to Postman and check for the endpoints and their response.
 
 
-
-And repeat
-
-```
-until finished
-```
