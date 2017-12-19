@@ -29,6 +29,10 @@ Go to the project folder
 ```
 $ cd CRM/
 ```
+Install all the node packages using:
+```
+$ npm install
+```
 
 Run the following command to start the server :
 ```
